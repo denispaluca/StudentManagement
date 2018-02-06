@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/md_styled_slide_up_normal.xml",
+        "source": "/home/denis/.android/build-cache/9597fd9c8a4930da98b667568b26bddefe4832b8/output/res/anim/md_styled_slide_up_normal.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/md_styled_zoom_in.xml",
+        "source": "/home/denis/.android/build-cache/9597fd9c8a4930da98b667568b26bddefe4832b8/output/res/anim/md_styled_zoom_in.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/pop_in.xml",
+        "source": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/anim/pop_in.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/pop_out.xml",
+        "source": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/anim/pop_out.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/slide_out.xml",
+        "source": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/anim/slide_out.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/slide_out_top.xml",
+        "source": "/home/denis/.android/build-cache/66288a348f4ae111600cfd6be4e48b71defaa369/output/res/anim/slide_out_top.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/md_styled_slide_up_slow.xml",
+        "source": "/home/denis/.android/build-cache/9597fd9c8a4930da98b667568b26bddefe4832b8/output/res/anim/md_styled_slide_up_slow.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/fade_out_center.xml",
+        "source": "/home/denis/.android/build-cache/66288a348f4ae111600cfd6be4e48b71defaa369/output/res/anim/fade_out_center.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/popup_exit.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/anim/popup_exit.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/slide_in.xml",
+        "source": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/anim/slide_in.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/md_styled_slide_down_slow.xml",
+        "source": "/home/denis/.android/build-cache/9597fd9c8a4930da98b667568b26bddefe4832b8/output/res/anim/md_styled_slide_down_slow.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/md_styled_slide_down_normal.xml",
+        "source": "/home/denis/.android/build-cache/9597fd9c8a4930da98b667568b26bddefe4832b8/output/res/anim/md_styled_slide_down_normal.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/decelerate_cubic.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/anim/decelerate_cubic.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/slide_in_top.xml",
+        "source": "/home/denis/.android/build-cache/66288a348f4ae111600cfd6be4e48b71defaa369/output/res/anim/slide_in_top.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/popup_enter.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/anim/popup_enter.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/md_styled_slide_down_fast.xml",
+        "source": "/home/denis/.android/build-cache/9597fd9c8a4930da98b667568b26bddefe4832b8/output/res/anim/md_styled_slide_down_fast.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/side_in.xml",
+        "source": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/anim/side_in.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/side_out.xml",
+        "source": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/anim/side_out.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/fade_in_center.xml",
+        "source": "/home/denis/.android/build-cache/66288a348f4ae111600cfd6be4e48b71defaa369/output/res/anim/fade_in_center.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/md_styled_zoom_out.xml",
+        "source": "/home/denis/.android/build-cache/9597fd9c8a4930da98b667568b26bddefe4832b8/output/res/anim/md_styled_zoom_out.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/slide_out_bottom.xml",
+        "source": "/home/denis/.android/build-cache/66288a348f4ae111600cfd6be4e48b71defaa369/output/res/anim/slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/slide_in_bottom.xml",
+        "source": "/home/denis/.android/build-cache/66288a348f4ae111600cfd6be4e48b71defaa369/output/res/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/md_styled_slide_up_fast.xml",
+        "source": "/home/denis/.android/build-cache/9597fd9c8a4930da98b667568b26bddefe4832b8/output/res/anim/md_styled_slide_up_fast.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/anim/abc_slide_in_top.xml"
+    }
+]

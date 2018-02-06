@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="md_is_tablet">true</bool>
+    <dimen name="appIntroDefaultPaddingLeft">80dp</dimen>
+    <dimen name="appIntroDefaultPaddingRight">80dp</dimen>
+    <item name="mr_dialog_fixed_width_major" type="dimen">50%</item>
+    <item name="mr_dialog_fixed_width_minor" type="dimen">70%</item>
+    <dimen name="sliding_header_max_height">400dp</dimen>
+    <dimen name="sliding_maximum_title_size">40sp</dimen>
+    <dimen name="sliding_photo_container_height">360dip</dimen>
+    <dimen name="sliding_title_initial_margin">32dp</dimen>
+    <integer name="sliding_card_layout_weight">81</integer>
+    <integer name="sliding_space_layout_weight">11</integer>
+</resources>

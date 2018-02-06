@@ -1,0 +1,47 @@
+<resources>
+
+    <string name="app_name">Mësuesi</string>
+    <string name="add">Shto një nxënës</string>
+    <string name="textToAddStudent">Fusni informacionin përkatës</string>
+    <string name="shto">Shto nxënësin</string>
+    <string name="kujdes">Kujdes!</string>
+    <string name="warningText">Tarifa standarte do të aplikohen gjatë dërgimit të mesazheve!</string>
+    <string name="firstElOfAbout">Emri: Mungesat</string>
+    <string name="secondElOfAbout">Versioni: Alpha</string>
+    <string name="thirdElOfAbout">Programuesi: Denis Paluca</string>
+    <string name="fourthElOfAbout">Përshkrimi: Ky applikacion u krijon lehtësira mësueseve të shkollave për të lajmëruar prindërit për mungesat ditore që bëjnë nxënësit e tyre gjatë orarit të mësimit.</string>
+    <string name="hoursHeaderText">Zgjidhni sa orë ka munguar nxënësi:</string>
+    <string name="daysHeaderText">Zgjidhni ditët kur nxënësi ka munguar:</string>
+    <string name="name">Emër Mbiemër</string>
+    <string name="celi">Nr. i celularit</string>
+    <string name="radio_male">Mashkull</string>
+    <string name="radio_female">Femër</string>
+    <string name="about">Rreth nesh</string>
+    <string name="nodata">Nuk ka asnjë nxënës.</string>
+    <string name="deleteAll">Fshij të gjithë nxënësit</string>
+    <string name="addStudentMainText">Vendosni të dhënat e nxënësit</string>
+    <string name="addAnother">Shto një tjetër nxënës</string>
+    <string name="settings">Opsione</string>
+    <string name="ndrysho">Ndrysho</string>
+    <string name="vazhdo">Vazhdo</string>
+    <string name="parentsMessage">Mesazhi i mbledhjeve me prindër</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="pref_title_display_absence">Mesazhi i mungesave</string>
+    <string name="absenceMessage">Mesazhi i mungesave</string>
+
+    <string name="pref_title_display_parents">Mesazhi i mbledhjeve me prindër</string>
+    <string name="special_complain">Lajmëroni një prind</string>
+    <string name="title_activity_special_complain">Ankesë</string>
+    <string name="complainEditTextHint">Shkruani një ankesë një prindi</string>
+    <string name="studentNameEditTextHint">Shkruani emrin e nxënësit</string>
+
+    <string name="absenceMessageCard">Dërgo lajmërime tek prindërit për mungesat ditore apo javore e që bëjnë nxënësit. Menaxho listën e nxënësve të klasës përgjegjëse kujdestare.</string>
+    <string name="gatheringMessageCard">Dërgo prindërve të nxënësve lajmëirim për zhvillimin e një mbledhjeje me prindër në shkollë.</string>
+    <string name="specialComplainMessageCard">Dërgo një ankesë drejt një prindi për problemet që nxënësi përkatës mund të ketë hasur në shkollë.</string>
+
+    <string name="parentsGatheringDefValue">I nderuar prind. Ju njoftojmë se ditën e Enjte shkolla "Harry Fultz" organizon mbledhje me prindër. Faleminderit!</string>
+    <string name="absencesDefValue">I nderuar prind. Nxënësi juaj ka bërë mungesa ditën e </string>
+    <string name="appIntro">App Intro</string>
+
+</resources>

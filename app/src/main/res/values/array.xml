@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hoursArray">
+        <item>1 orë</item>
+        <item>2 orë</item>
+        <item>3 orë</item>
+        <item>4 orë</item>
+        <item>5 orë</item>
+        <item>6 orë</item>
+        <item>7 orë</item>
+    </string-array>
+</resources>

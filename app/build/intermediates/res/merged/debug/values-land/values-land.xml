@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="sliding_two_panel">true</bool>
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
+    <dimen name="button_padding">10dp</dimen>
+    <dimen name="content_fake_margin">-5dp</dimen>
+    <dimen name="divider_stroke">0.5dp</dimen>
+    <dimen name="input_min_height">150dp</dimen>
+    <dimen name="logo_height">42dp</dimen>
+    <dimen name="message_text_size">14sp</dimen>
+    <dimen name="mr_controller_volume_group_list_item_height">61dp</dimen>
+    <dimen name="mr_controller_volume_group_list_item_icon_size">18dp</dimen>
+    <dimen name="mr_controller_volume_group_list_max_height">132dp</dimen>
+    <dimen name="pattern_height">69dp</dimen>
+    <dimen name="scrollview_max_height">150dp</dimen>
+    <dimen name="sliding_maximum_title_size">20sp</dimen>
+    <dimen name="text_padding">16dp</dimen>
+    <dimen name="title_text_size">18sp</dimen>
+    <dimen name="up_down_margin">30dp</dimen>
+    <integer name="sliding_title_lines">5</integer>
+    <style name="Widget.Design.TabLayout" parent="Base.Widget.Design.TabLayout">
+        <item name="tabGravity">center</item>
+        <item name="tabMode">fixed</item>
+    </style>
+</resources>

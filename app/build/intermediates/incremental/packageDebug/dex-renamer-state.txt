@@ -1,0 +1,7 @@
+#Fri Feb 02 20:53:08 CET 2018
+base.0=/home/denis/Desktop/StudentManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f32bf059f0a3e77eee5e403f385d8157b369d33a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/denis/Desktop/StudentManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_372995e2a3272ebf1079a1ebd07dd2a5bb70766d/classes.dex
+base.1=/home/denis/Desktop/StudentManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_372995e2a3272ebf1079a1ebd07dd2a5bb70766d
+file.0=/home/denis/Desktop/StudentManagement/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f32bf059f0a3e77eee5e403f385d8157b369d33a/classes.dex

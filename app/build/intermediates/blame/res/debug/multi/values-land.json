@@ -1,0 +1,427 @@
+[
+    {
+        "outputFile": "/home/denis/Desktop/StudentManagement/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 46,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 69,
+                    "endOffset": 167
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 172,
+                    "endColumn": 63,
+                    "endOffset": 231
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 63,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 70,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 70,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 67,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 67,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 45,
+                    "endOffset": 416
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 421,
+                    "endColumn": 50,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 50,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 46,
+                    "endOffset": 514
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 46,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 519,
+                    "endColumn": 48,
+                    "endOffset": 563
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 48,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 568,
+                    "endColumn": 42,
+                    "endOffset": 606
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 42,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 611,
+                    "endColumn": 48,
+                    "endOffset": 655
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 48,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 660,
+                    "endColumn": 74,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/77241cf47603c6a02ed837539a982438e7679325/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 74,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 735,
+                    "endColumn": 77,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/77241cf47603c6a02ed837539a982438e7679325/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 77,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 74,
+                    "endOffset": 883
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/77241cf47603c6a02ed837539a982438e7679325/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 74,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 888,
+                    "endColumn": 45,
+                    "endOffset": 929
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 45,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 934,
+                    "endColumn": 53,
+                    "endOffset": 983
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 53,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 988,
+                    "endColumn": 57,
+                    "endOffset": 1041
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 387,
+                        "endColumn": 57,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1046,
+                    "endColumn": 43,
+                    "endOffset": 1085
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 43,
+                        "endOffset": 479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1090,
+                    "endColumn": 46,
+                    "endOffset": 1132
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 484,
+                        "endColumn": 46,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1137,
+                    "endColumn": 45,
+                    "endOffset": 1178
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 531,
+                        "endColumn": 45,
+                        "endOffset": 572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1183,
+                    "endColumn": 51,
+                    "endOffset": 1230
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 590,
+                        "endColumn": 51,
+                        "endOffset": 637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1235,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1412
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 232
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
+        "source": "/home/denis/.android/build-cache/77241cf47603c6a02ed837539a982438e7679325/output/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/mr_controller_material_dialog_b.xml",
+        "source": "/home/denis/.android/build-cache/77241cf47603c6a02ed837539a982438e7679325/output/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/checkboxitemlayout.xml",
+        "source": "/home/denis/Desktop/StudentManagement/app/src/main/res/layout/checkboxitemlayout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/absence_activity.xml",
+        "source": "/home/denis/Desktop/StudentManagement/app/src/main/res/layout/absence_activity.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/md_dialog_input.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/layout/md_dialog_input.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/sliding_header.xml",
+        "source": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/layout/sliding_header.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/progress_indicator.xml",
+        "source": "/home/denis/.android/build-cache/7cb1e31a363d4d8b698060b8d6191bdd3598fd4f/output/res/layout/progress_indicator.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/md_listitem_singlechoice.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/layout/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/fab__webview_container.xml",
+        "source": "/home/denis/.android/build-cache/5a5ee5079c19bb50b05652195286a8f8904645b5/output/res/layout/fab__webview_container.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/main_page_activity.xml",
+        "source": "/home/denis/Desktop/StudentManagement/app/src/main/res/layout/main_page_activity.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/shto_student_activity.xml",
+        "source": "/home/denis/Desktop/StudentManagement/app/src/main/res/layout/shto_student_activity.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/sliding_activity.xml",
+        "source": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/layout/sliding_activity.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/layout/md_dialog_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/fragment_intro2.xml",
+        "source": "/home/denis/.android/build-cache/7cb1e31a363d4d8b698060b8d6191bdd3598fd4f/output/res/layout/fragment_intro2.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/bottom_sheet_layout.xml",
+        "source": "/home/denis/.android/build-cache/c8e2b3601f72f07d688ab62a3f9a3039e4a1de5e/output/res/layout/bottom_sheet_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/about_layout.xml",
+        "source": "/home/denis/Desktop/StudentManagement/app/src/main/res/layout/about_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/custom_toast.xml",
+        "source": "/home/denis/Desktop/StudentManagement/app/src/main/res/layout/custom_toast.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/md_stub_actionbuttons.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/layout/md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/dialog_list.xml",
+        "source": "/home/denis/.android/build-cache/66288a348f4ae111600cfd6be4e48b71defaa369/output/res/layout/dialog_list.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/content_shto_student.xml",
+        "source": "/home/denis/Desktop/StudentManagement/app/src/main/res/layout/content_shto_student.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/dialog.xml",
+        "source": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/layout/dialog.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/sliding_title_placeholder.xml",
+        "source": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/layout/sliding_title_placeholder.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/md_dialog_progress.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/layout/md_dialog_progress.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/absence_content_main.xml",
+        "source": "/home/denis/Desktop/StudentManagement/app/src/main/res/layout/absence_content_main.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/home/denis/Desktop/StudentManagement/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/mr_chooser_dialog.xml",
+        "source": "/home/denis/.android/build-cache/77241cf47603c6a02ed837539a982438e7679325/output/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/fab__listview_container.xml",
+        "source": "/home/denis/.android/build-cache/5a5ee5079c19bb50b05652195286a8f8904645b5/output/res/layout/fab__listview_container.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/dialog_grid.xml",
+        "source": "/home/denis/.android/build-cache/66288a348f4ae111600cfd6be4e48b71defaa369/output/res/layout/dialog_grid.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/single_choice_item.xml",
+        "source": "/home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res/layout/single_choice_item.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/sliding_content.xml",
+        "source": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/layout/sliding_content.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/special_complain_activity.xml",
+        "source": "/home/denis/Desktop/StudentManagement/app/src/main/res/layout/special_complain_activity.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/dialog_view.xml",
+        "source": "/home/denis/.android/build-cache/66288a348f4ae111600cfd6be4e48b71defaa369/output/res/layout/dialog_view.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/md_dialog_list.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/layout/md_dialog_list.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/fragment_intro_content.xml",
+        "source": "/home/denis/.android/build-cache/7cb1e31a363d4d8b698060b8d6191bdd3598fd4f/output/res/layout/fragment_intro_content.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/md_listitem_multichoice.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/layout/md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/base_container.xml",
+        "source": "/home/denis/.android/build-cache/66288a348f4ae111600cfd6be4e48b71defaa369/output/res/layout/base_container.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/special_complain_content.xml",
+        "source": "/home/denis/Desktop/StudentManagement/app/src/main/res/layout/special_complain_content.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/mr_chooser_list_item.xml",
+        "source": "/home/denis/.android/build-cache/77241cf47603c6a02ed837539a982438e7679325/output/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/md_listitem.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/layout/md_listitem.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
+        "source": "/home/denis/.android/build-cache/77241cf47603c6a02ed837539a982438e7679325/output/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/fab__header_container.xml",
+        "source": "/home/denis/.android/build-cache/5a5ee5079c19bb50b05652195286a8f8904645b5/output/res/layout/fab__header_container.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/default_indicator.xml",
+        "source": "/home/denis/.android/build-cache/7cb1e31a363d4d8b698060b8d6191bdd3598fd4f/output/res/layout/default_indicator.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/md_dialog_custom.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/layout/md_dialog_custom.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/fab__scrollview_container.xml",
+        "source": "/home/denis/.android/build-cache/5a5ee5079c19bb50b05652195286a8f8904645b5/output/res/layout/fab__scrollview_container.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/md_dialog_basic.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/layout/md_dialog_basic.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/md_stub_titleframe.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/layout/md_stub_titleframe.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/style_dialog_header.xml",
+        "source": "/home/denis/.android/build-cache/9597fd9c8a4930da98b667568b26bddefe4832b8/output/res/layout/style_dialog_header.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/intro_layout2.xml",
+        "source": "/home/denis/.android/build-cache/7cb1e31a363d4d8b698060b8d6191bdd3598fd4f/output/res/layout/intro_layout2.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/checkboxlistheader.xml",
+        "source": "/home/denis/Desktop/StudentManagement/app/src/main/res/layout/checkboxlistheader.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/layout/md_dialog_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/md_stub_titleframe_lesspadding.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/layout/md_stub_titleframe_lesspadding.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/my_dynamic_toast.xml",
+        "source": "/home/denis/.android/build-cache/24a13c2586355621684ee3d96bceaf3854593bed/output/res/layout/my_dynamic_toast.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/fragment_intro.xml",
+        "source": "/home/denis/.android/build-cache/7cb1e31a363d4d8b698060b8d6191bdd3598fd4f/output/res/layout/fragment_intro.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/mr_volume_control.xml",
+        "source": "/home/denis/.android/build-cache/77241cf47603c6a02ed837539a982438e7679325/output/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/sliding_title.xml",
+        "source": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/layout/sliding_title.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/intro_layout.xml",
+        "source": "/home/denis/.android/build-cache/7cb1e31a363d4d8b698060b8d6191bdd3598fd4f/output/res/layout/intro_layout.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/res/layout/abc_screen_content_include.xml"
+    }
+]

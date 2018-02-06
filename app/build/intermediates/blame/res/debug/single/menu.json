@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/menu/folderview_options.xml",
+        "source": "/home/denis/Desktop/StudentManagement/app/src/main/res/menu/folderview_options.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/menu/mainpage_options.xml",
+        "source": "/home/denis/Desktop/StudentManagement/app/src/main/res/menu/mainpage_options.xml"
+    }
+]

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.harryfultz.studentmanager"
+    android:versionCode="2"
+    android:versionName="2.0" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.harryfultz.studentmanager.activities.MainPage"
+            android:label="@string/app_name"
+            android:theme="@style/splashScreenTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.harryfultz.studentmanager.activities.Mungesa"
+            android:label="Mungesa"
+            android:parentActivityName="com.harryfultz.studentmanager.activities.MainPage"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="com.harryfultz.studentmanager.Mungesa" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.harryfultz.studentmanager.activities.MainPage" />
+        </activity>
+        <activity
+            android:name="com.harryfultz.studentmanager.activities.About"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="com.harryfultz.studentmanager.About" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.harryfultz.studentmanager.activities.ShtoStudent"
+            android:label="@string/add"
+            android:parentActivityName="com.harryfultz.studentmanager.activities.Mungesa"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize" >
+            <intent-filter>
+                <action android:name="com.harryfultz.studentmanager.ShtoStudent" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.harryfultz.studentmanager.activities.Mungesa" />
+        </activity>
+        <activity
+            android:name="com.harryfultz.studentmanager.activities.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:parentActivityName="com.harryfultz.studentmanager.activities.MainPage" >
+            android:theme="@style/AppTheme.NoActionBar"
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.harryfultz.studentmanager.activities.MainPage" />
+        </activity>
+        <activity
+            android:name="com.harryfultz.studentmanager.activities.SpecialComplain"
+            android:label="@string/title_activity_special_complain"
+            android:parentActivityName="com.harryfultz.studentmanager.activities.MainPage"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.harryfultz.studentmanager.activities.MainPage" />
+        </activity>
+        <activity
+            android:name="com.harryfultz.studentmanager.activities.IntroActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.harryfultz.studentmanager.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

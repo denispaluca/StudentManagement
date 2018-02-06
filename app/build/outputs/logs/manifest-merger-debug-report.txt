@@ -1,0 +1,218 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:2:1-85:12
+	package
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml
+		INJECTED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml
+		INJECTED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml
+		INJECTED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:7:5-83:19
+MERGED from [com.android.support:mediarouter-v7:25.3.1] /home/denis/.android/build-cache/77241cf47603c6a02ed837539a982438e7679325/output/AndroidManifest.xml:26:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:1.3.1] /home/denis/.android/build-cache/40fb78af51331cfec7efee8b63f3820cb6084adc/output/AndroidManifest.xml:10:5-20
+MERGED from [com.github.afollestad.material-dialogs:core:0.8.5.8] /home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/AndroidManifest.xml:13:5-20
+MERGED from [com.github.manuelpeinado.fadingactionbar:fadingactionbar:3.1.2] /home/denis/.android/build-cache/5a5ee5079c19bb50b05652195286a8f8904645b5/output/AndroidManifest.xml:6:5-93
+MERGED from [com.android.support:palette-v7:25.3.1] /home/denis/.android/build-cache/a0a2583d66ca17573ee5f57a941578216ec57a93/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] /home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/denis/.android/build-cache/f04794f734e9561702e299d725c84ae722b6e52f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/denis/.android/build-cache/4447201da2b03ae73fa70a6215b7415a67353fc7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.hanks.animatecheckbox:library:0.1] /home/denis/.android/build-cache/1363bde829c251027e9d0e6ad24677438aab9ded/output/AndroidManifest.xml:11:5-15:19
+MERGED from [de.hdodenhof:circleimageview:2.0.0] /home/denis/.android/build-cache/7b8afc68b7e8228d653eaee2707f75cd2a89f9c5/output/AndroidManifest.xml:9:5-20
+MERGED from [com.github.vatsaldesai92:MyDynamicToastLibrary:1.0.1] /home/denis/.android/build-cache/24a13c2586355621684ee3d96bceaf3854593bed/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.eminayar.panterdialog:panter-dialog:0.0.2.1] /home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.apl-devs:appintro:v4.2.0] /home/denis/.android/build-cache/7cb1e31a363d4d8b698060b8d6191bdd3598fd4f/output/AndroidManifest.xml:11:5-47
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/denis/.android/build-cache/94722ceaaae4f064185a4fdda161fcff1f6548a3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/denis/.android/build-cache/964cf7dac27a659a748f36bbe011802411a60a20/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/denis/.android/build-cache/6f595301f847eb99892d7ff4d964a4e19afd8534/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/denis/.android/build-cache/f6ad08ec530b871821aeaf11c5c8d476dd71fd47/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/denis/.android/build-cache/d59049b3e89b5845a6c9c00e9c673ef8a367a2c6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/denis/.android/build-cache/d7aa7f892000abac20ed6f01a3314bf132f1b012/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/denis/.android/build-cache/b1e9f43cde1c0b979b72bbcee57dfca05934792f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/denis/.android/build-cache/27b52d068787693bbd550a4674cca9b53fe5aea3/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from [com.hanks.animatecheckbox:library:0.1] /home/denis/.android/build-cache/1363bde829c251027e9d0e6ad24677438aab9ded/output/AndroidManifest.xml:14:9-35
+	xmlns:tools
+		ADDED from [com.github.manuelpeinado.fadingactionbar:fadingactionbar:3.1.2] /home/denis/.android/build-cache/5a5ee5079c19bb50b05652195286a8f8904645b5/output/AndroidManifest.xml:6:18-64
+	tools:ignore
+		ADDED from [com.github.manuelpeinado.fadingactionbar:fadingactionbar:3.1.2] /home/denis/.android/build-cache/5a5ee5079c19bb50b05652195286a8f8904645b5/output/AndroidManifest.xml:6:65-91
+	android:icon
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:8:9-42
+	android:allowBackup
+		ADDED from [com.hanks.animatecheckbox:library:0.1] /home/denis/.android/build-cache/1363bde829c251027e9d0e6ad24677438aab9ded/output/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.harryfultz.studentmanager.activities.MainPage
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:11:9-20:20
+	android:label
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:13:13-45
+	android:theme
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:14:13-53
+	android:name
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:12:13-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.harryfultz.studentmanager.activities.Mungesa
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:21:9-34:20
+	android:label
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:23:13-36
+	android:parentActivityName
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:24:13-91
+	android:theme
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:22:13-76
+intent-filter#android.intent.category.DEFAULT+com.harryfultz.studentmanager.Mungesa
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:26:13-30:29
+action#com.harryfultz.studentmanager.Mungesa
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:27:17-80
+	android:name
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:27:25-77
+category#android.intent.category.DEFAULT
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:29:27-73
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:32:17-63
+activity#com.harryfultz.studentmanager.activities.About
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:35:9-44:20
+	android:configChanges
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:37:13-59
+	android:theme
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:36:13-74
+intent-filter#android.intent.category.DEFAULT+com.harryfultz.studentmanager.About
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:39:13-43:29
+action#com.harryfultz.studentmanager.About
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:40:17-78
+	android:name
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:40:25-75
+activity#com.harryfultz.studentmanager.activities.ShtoStudent
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:46:9-59:20
+	android:label
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:48:13-40
+	android:parentActivityName
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:50:13-90
+	android:windowSoftInputMode
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:49:13-55
+	android:theme
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:47:13-80
+intent-filter#android.intent.category.DEFAULT+com.harryfultz.studentmanager.ShtoStudent
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:52:13-55:29
+action#com.harryfultz.studentmanager.ShtoStudent
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:53:17-84
+	android:name
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:53:25-81
+activity#com.harryfultz.studentmanager.activities.SettingsActivity
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:60:9-68:20
+	android:label
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:62:13-60
+	android:parentActivityName
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:63:13-91
+	android:name
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:61:13-85
+activity#com.harryfultz.studentmanager.activities.SpecialComplain
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:69:9-77:20
+	android:label
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:71:13-68
+	android:parentActivityName
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:72:13-91
+	android:theme
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:73:13-56
+	android:name
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:70:13-84
+activity#com.harryfultz.studentmanager.activities.IntroActivity
+ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:79:9-82:62
+	android:configChanges
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:82:13-59
+	android:theme
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:81:13-56
+	android:name
+		ADDED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml:80:13-82
+uses-sdk
+INJECTED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:mediarouter-v7:25.3.1] /home/denis/.android/build-cache/77241cf47603c6a02ed837539a982438e7679325/output/AndroidManifest.xml:20:5-43
+MERGED from [com.github.coyarzun89:fabtransitionactivity:0.2.0] /home/denis/.android/build-cache/c8e2b3601f72f07d688ab62a3f9a3039e4a1de5e/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ozodrukh:CircularReveal:1.3.1] /home/denis/.android/build-cache/40fb78af51331cfec7efee8b63f3820cb6084adc/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.javiersantos:MaterialStyledDialogs:1.3.1] /home/denis/.android/build-cache/9597fd9c8a4930da98b667568b26bddefe4832b8/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.afollestad.material-dialogs:core:0.8.5.8] /home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/AndroidManifest.xml:8:5-11:75
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.5] /home/denis/.android/build-cache/d1b0204d89f80a97d7fdbe72522ac2e98e3598f1/output/AndroidManifest.xml:12:5-14:41
+MERGED from [com.github.manuelpeinado.fadingactionbar:fadingactionbar:3.1.2] /home/denis/.android/build-cache/5a5ee5079c19bb50b05652195286a8f8904645b5/output/AndroidManifest.xml:4:5-72
+MERGED from [com.klinkerapps:sliding-activity:1.2.3] /home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:palette-v7:25.3.1] /home/denis/.android/build-cache/a0a2583d66ca17573ee5f57a941578216ec57a93/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] /home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] /home/denis/.android/build-cache/f04794f734e9561702e299d725c84ae722b6e52f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/denis/.android/build-cache/4447201da2b03ae73fa70a6215b7415a67353fc7/output/AndroidManifest.xml:20:5-43
+MERGED from [com.orhanobut:dialogplus:1.11] /home/denis/.android/build-cache/66288a348f4ae111600cfd6be4e48b71defaa369/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.hanks.animatecheckbox:library:0.1] /home/denis/.android/build-cache/1363bde829c251027e9d0e6ad24677438aab9ded/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.baoyz.swipemenulistview:library:1.3.0] /home/denis/.android/build-cache/31995be69f7d396094a847eff55d47f2825bda72/output/AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:2.0.0] /home/denis/.android/build-cache/7b8afc68b7e8228d653eaee2707f75cd2a89f9c5/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.vatsaldesai92:MyDynamicToastLibrary:1.0.1] /home/denis/.android/build-cache/24a13c2586355621684ee3d96bceaf3854593bed/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.eminayar.panterdialog:panter-dialog:0.0.2.1] /home/denis/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/denis/.android/build-cache/2be449ab917d4266feed340e1b565960d7c449ef/output/AndroidManifest.xml:20:5-43
+MERGED from [com.github.apl-devs:appintro:v4.2.0] /home/denis/.android/build-cache/7cb1e31a363d4d8b698060b8d6191bdd3598fd4f/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/denis/.android/build-cache/94722ceaaae4f064185a4fdda161fcff1f6548a3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/denis/.android/build-cache/964cf7dac27a659a748f36bbe011802411a60a20/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/denis/.android/build-cache/6f595301f847eb99892d7ff4d964a4e19afd8534/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/denis/.android/build-cache/f6ad08ec530b871821aeaf11c5c8d476dd71fd47/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/denis/.android/build-cache/d59049b3e89b5845a6c9c00e9c673ef8a367a2c6/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/denis/.android/build-cache/d7aa7f892000abac20ed6f01a3314bf132f1b012/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/denis/.android/build-cache/b1e9f43cde1c0b979b72bbcee57dfca05934792f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/denis/.android/build-cache/27b52d068787693bbd550a4674cca9b53fe5aea3/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.github.afollestad.material-dialogs:core:0.8.5.8] /home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml
+		INJECTED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml
+		INJECTED from /home/denis/Desktop/StudentManagement/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:mediarouter-v7:25.3.1] /home/denis/.android/build-cache/77241cf47603c6a02ed837539a982438e7679325/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:palette-v7:25.3.1] /home/denis/.android/build-cache/a0a2583d66ca17573ee5f57a941578216ec57a93/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] /home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /home/denis/.android/build-cache/f04794f734e9561702e299d725c84ae722b6e52f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/denis/.android/build-cache/4447201da2b03ae73fa70a6215b7415a67353fc7/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/denis/.android/build-cache/2be449ab917d4266feed340e1b565960d7c449ef/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/denis/.android/build-cache/4959054b92f9d07f01e052344fb4c75a1ead9b1c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/denis/.android/build-cache/94722ceaaae4f064185a4fdda161fcff1f6548a3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/denis/.android/build-cache/964cf7dac27a659a748f36bbe011802411a60a20/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/denis/.android/build-cache/6f595301f847eb99892d7ff4d964a4e19afd8534/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/denis/.android/build-cache/f6ad08ec530b871821aeaf11c5c8d476dd71fd47/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/denis/.android/build-cache/d59049b3e89b5845a6c9c00e9c673ef8a367a2c6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/denis/.android/build-cache/d7aa7f892000abac20ed6f01a3314bf132f1b012/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/denis/.android/build-cache/b1e9f43cde1c0b979b72bbcee57dfca05934792f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/denis/.android/build-cache/27b52d068787693bbd550a4674cca9b53fe5aea3/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:mediarouter-v7:25.3.1] /home/denis/.android/build-cache/77241cf47603c6a02ed837539a982438e7679325/output/AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:mediarouter-v7:25.3.1] /home/denis/.android/build-cache/77241cf47603c6a02ed837539a982438e7679325/output/AndroidManifest.xml:23:9-47

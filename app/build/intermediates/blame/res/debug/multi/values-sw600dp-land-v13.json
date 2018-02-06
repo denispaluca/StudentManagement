@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/home/denis/Desktop/StudentManagement/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/values-sw600dp-land/values-sw600dp-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 57,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 62,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/values-sw600dp-land/values-sw600dp-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 62,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 58,
+                    "endOffset": 230
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/values-sw600dp-land/values-sw600dp-land.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 58,
+                        "endOffset": 534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 235,
+                    "endColumn": 59,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/values-sw600dp-land/values-sw600dp-land.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 539,
+                        "endColumn": 59,
+                        "endOffset": 594
+                    }
+                }
+            }
+        ]
+    }
+]

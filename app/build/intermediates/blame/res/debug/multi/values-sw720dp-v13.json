@@ -1,0 +1,216 @@
+[
+    {
+        "outputFile": "/home/denis/Desktop/StudentManagement/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 57,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/7cb1e31a363d4d8b698060b8d6191bdd3598fd4f/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 58,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/7cb1e31a363d4d8b698060b8d6191bdd3598fd4f/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 58,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 68,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/77241cf47603c6a02ed837539a982438e7679325/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 283,
+                    "endColumn": 68,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/77241cf47603c6a02ed837539a982438e7679325/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 68,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endColumn": 57,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/values-sw720dp/values-sw720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 57,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 410,
+                    "endColumn": 57,
+                    "endOffset": 463
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/values-sw720dp/values-sw720dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 57,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 468,
+                    "endColumn": 63,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/values-sw720dp/values-sw720dp.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 317,
+                        "endColumn": 63,
+                        "endOffset": 376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 59,
+                    "endOffset": 587
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/values-sw720dp/values-sw720dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 381,
+                        "endColumn": 59,
+                        "endOffset": 436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 592,
+                    "endColumn": 59,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/values-sw720dp/values-sw720dp.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 59,
+                        "endOffset": 644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 60,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/values-sw720dp/values-sw720dp.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 649,
+                        "endColumn": 60,
+                        "endOffset": 705
+                    }
+                }
+            }
+        ]
+    }
+]

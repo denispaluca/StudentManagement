@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAlignment="center"
+    android:orientation="horizontal" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        >
+        <ImageView
+            android:id="@+id/defaultPic"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/defaultpic"
+            />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/mainPart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        >
+
+    <CheckedTextView
+        android:id="@+id/checkBox1"
+        android:textSize="20dp"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+        android:text="Name" />
+
+    <TextView
+        android:id="@+id/numberId"
+        android:layout_height="20dp"
+        android:layout_width="wrap_content"
+        android:layout_below="@+id/checkBox1"
+        android:textSize="10dp"
+        android:layout_marginStart="6dp"
+        android:layout_alignParentStart="true"
+        android:text="@string/celi"
+        />
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/layout-v14/md_stub_progress.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/layout-v14/md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
+    }
+]

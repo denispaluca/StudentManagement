@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/denis/Desktop/StudentManagement/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/denis/.android/build-cache/4147e9b5d567c2ba965da4fcc6dc7aa674024a60/output/res/values-sw720dp-land/values-sw720dp-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 57,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    }
+]

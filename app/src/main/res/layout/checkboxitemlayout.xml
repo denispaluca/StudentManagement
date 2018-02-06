@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#DADADA"
+    android:padding="10dp">
+
+    <com.hanks.library.AnimateCheckBox
+        android:id="@+id/checkBoxButtonId"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:padding="15dp"
+        app:animDuration="200"
+        app:checkedColor="@color/colorPrimary"
+        app:lineColor="#fff"
+        app:lineWidth="1.5dp"
+        app:unCheckColor="#000" />
+
+    <TextView
+        android:id="@+id/checBoxTextId"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_toEndOf="@+id/checkBoxButtonId"
+        android:text="@string/name"
+        android:textColor="#000"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:visibility="visible" />
+</RelativeLayout>
+

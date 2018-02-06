@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.hanks.animatecheckbox:library-0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/1363bde829c251027e9d0e6ad24677438aab9ded/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/1363bde829c251027e9d0e6ad24677438aab9ded/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hanks.animatecheckbox/library/0.1/6fd5f672076efa49b4c176037f8cda203b3a315a/library-0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

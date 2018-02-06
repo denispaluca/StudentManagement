@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.eminayar.panterdialog:panter-dialog-0.0.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/b5ce77f091418c4ef55755f45535178076c6dc5d/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.eminayar.panterdialog/panter-dialog/0.0.2.1/620b0fcbc4824f8ce2eaca7237364ac09328258c/panter-dialog-0.0.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/md_nav_back.xml",
+        "source": "/home/denis/.android/build-cache/edd6aca8e67dbfe4d679fc72cae2b6343d4ca75f/output/res/drawable-anydpi-v21/md_nav_back.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/denis/Desktop/StudentManagement/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/denis/.android/build-cache/9d58b40e1e7a631c353385b6e104236a2adf073f/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]
